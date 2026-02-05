@@ -115,9 +115,10 @@ npm start
 ### .env
 
 Create .env file:
-
+```bash
 MONGO_URI=your_mongodb_atlas_url
 PORT=5000
+```
 
 ### Frontend
 ```bash
